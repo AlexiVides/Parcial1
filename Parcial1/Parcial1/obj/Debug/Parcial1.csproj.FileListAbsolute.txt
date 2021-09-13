@@ -1,0 +1,7 @@
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\alexi\Documents\Nueva carpeta\Parcial1\Parcial1\obj\Debug\Parcial1.pdb
