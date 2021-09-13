@@ -14,9 +14,10 @@ namespace Parcial1
         {
             Usuario usuario = new Usuario();
 
-            Console.WriteLine("nombre: ");
+            Console.WriteLine("Ingese sus datos para loguearse: ");
+            Console.WriteLine("Ingrese su nombre: ");
             usuario.Nombre = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Contraseña: ");
+            Console.WriteLine("Ingrese su contraseña: ");
             usuario.Contraseña = Convert.ToInt32(Console.ReadLine());
 
             ClsUsuario clsUsuario = new ClsUsuario();
