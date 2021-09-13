@@ -42,7 +42,8 @@ namespace Parcial1
 
                 Console.WriteLine(venta.ToString());
                 Console.WriteLine(clsVenta.cobro(venta));
-                Console.ReadLine();
+                Console.WriteLine(" ");
+
             }
 
         }
