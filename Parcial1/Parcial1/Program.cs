@@ -20,12 +20,12 @@ namespace Parcial1
             usuario.Contraseña = Convert.ToInt32(Console.ReadLine());
 
             ClsUsuario clsUsuario = new ClsUsuario();
-
+            
             Console.WriteLine(clsUsuario.acceso(usuario));
 
             Venta venta = new Venta();
 
-            while (usuario.Nombre == usuario.Nombre && usuario.Contraseña == usuario.Contraseña)
+            while (usuario.Nombre == "alexi" && usuario.Contraseña == 123)
             {
                 Console.WriteLine("Ingrese el Id del Producto: ");
                 venta.Idproducto = Convert.ToInt32(Console.ReadLine());
