@@ -17,7 +17,7 @@ namespace Parcial1.Negocios
             {
                 venta.Descuento = venta.Total * 0.15;
                 return "\nSu descuento es de: " + venta.Descuento +
-                "\ntotal a pagar: " + venta.Total;
+                "\nTotal a pagar: " + venta.Total;
             }
             else
             {

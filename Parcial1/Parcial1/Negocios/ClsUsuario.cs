@@ -11,7 +11,7 @@ namespace Parcial1.Negocios
     {
         public string acceso(Usuario usuario )
         {
-            if(usuario.Nombre == "Alexi" && usuario.Contraseña == 123)
+            if(usuario.Nombre == "alexi" && usuario.Contraseña == 123)
             {
                 return "Inicio de sesión correcto, puede continuar con el proceso de compra";
             }

@@ -25,7 +25,7 @@ namespace Parcial1
 
             Venta venta = new Venta();
 
-            while (usuario.Nombre == "Alexi" && usuario.Contraseña == 123)
+            while (usuario.Nombre == usuario.Nombre && usuario.Contraseña == usuario.Contraseña)
             {
                 Console.WriteLine("Ingrese el Id del Producto: ");
                 venta.Idproducto = Convert.ToInt32(Console.ReadLine());
